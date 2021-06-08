@@ -1,0 +1,25 @@
+.pokemon {
+  display: inline-block;
+  text-align: center;
+  padding: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pokemon img {
+  display: block;
+  height: 100px;
+}
+
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  box-sizing: border-box;
+  background: ivory;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin-left: 5%;
+}
